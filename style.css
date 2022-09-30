@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #D8A7B1;
+}
+h1{
+    text-align: center;
+    color: blanchedalmond;
+    font-weight: bold;
+}
+.mine{
+    width: 300px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+.mine img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.mine1{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    text-align: center;
+}
